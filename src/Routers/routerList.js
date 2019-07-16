@@ -1,1 +1,0 @@
-export const NAVIGATOR_PAGE = 'NAVIGATOR_PAGE';
