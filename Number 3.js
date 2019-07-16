@@ -1,5 +1,5 @@
 
-function candidateKey(relation){
+function number3(relation){
     try{
         let answer = 0;
         let isDuplicate = (array)=>{

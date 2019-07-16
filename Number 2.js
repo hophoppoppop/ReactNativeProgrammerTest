@@ -1,5 +1,5 @@
 
-function stageRate(N,users)
+function number2(N, users)
 {
     try{
         let answer = [];

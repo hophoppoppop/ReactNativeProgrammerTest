@@ -1,5 +1,5 @@
 
-function Chatting(record){
+function Number1(record){
     try{
         let answer = [];
         let listCommend = ["Enter","Change","Leave"];
